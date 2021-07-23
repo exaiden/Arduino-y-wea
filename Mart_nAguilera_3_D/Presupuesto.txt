@@ -1,0 +1,15 @@
+Protoboard                 =               $3.000
+Arduino + Cables Jumpers   =               $12.500
+Diodos Rctificadores       =      10x      $400
+Potenciometro 10[Kohm]     =               $150
+IC L293D                   =               $2350
+Motor DC 3[v]              =               $250
+
+
+TOTAL                      =               $18.650
+ 
+
+
+(el arduino, los cables y el protoboard ya
+ los tenia del año pasado.
+ el total actual seria $3150)

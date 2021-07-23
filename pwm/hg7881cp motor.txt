@@ -1,0 +1,17 @@
+
+Motor Control Interface
+Pin	Description
+B-IA	Motor B Input A (IA)
+B-IB	Motor B Input B (IB)
+GND	Ground
+VCC	Operating Voltage 2.5-12V
+A-IA	Motor A Input A (IA)
+A-IB	Motor A Input B (IB)
+ 
+
+Motor Truth Table
+IA	IB	Motor State
+L	L	Off
+H	L	Forward
+L	H	Reverse
+H	H	Off

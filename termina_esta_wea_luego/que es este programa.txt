@@ -1,0 +1,5 @@
+creo que lo que tenia que hacer es: que el arduino me mostrara
+en un displayLCD los angulos en los que se encuentra un motor Servo.
+
+si el motor servo se encuentra en una pocicion de 90°, el display
+deberia mostrarmelo.  
